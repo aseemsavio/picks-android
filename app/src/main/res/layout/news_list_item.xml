@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/frame"
+        >
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:background="@drawable/scrim"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aseem Savio"
+            android:id="@+id/txt"
+            android:textSize="25sp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="83dp"
+            android:layout_marginLeft="15dp"
+            />
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/ic_business_center_white_24px"
+            android:id="@+id/icon_view"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="47dp"
+            android:text="Aseem Savio"
+            android:textColor="#ffffff"
+            android:layout_marginTop="55dp"
+            android:textSize="15sp"
+            android:id="@+id/lang"
+            />
+
+
+
+
+    </FrameLayout>
+
+
+</LinearLayout>

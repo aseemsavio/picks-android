@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "519972792255",
+    "firebase_url": "https://picks-6fc91.firebaseio.com",
+    "project_id": "picks-6fc91",
+    "storage_bucket": "picks-6fc91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519972792255:android:183cd757f8a2de38",
+        "android_client_info": {
+          "package_name": "com.aseemsavio.picks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519972792255-5ibm53baq7868au39eh346vcr9dt69n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aseemsavio.picks",
+            "certificate_hash": "78d31383d2e746918687e905edd27d7d6e9c18a7"
+          }
+        },
+        {
+          "client_id": "519972792255-0jk1i5c1uqmmr4o8fkq5a53lj1s9037t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiCxZO4-FzRAtPPpEevARs54eVKVuWLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519972792255-0jk1i5c1uqmmr4o8fkq5a53lj1s9037t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

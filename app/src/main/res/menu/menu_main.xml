@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Sign Out"
+        android:id="@+id/power"
+        android:icon="@drawable/ic_power_settings_new_white_24px"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="200"
+        />
+    <item
+        android:title="Favourites"
+        android:id="@+id/favo"
+        android:icon="@drawable/ic_favorite_border_white_24px"
+        android:showAsAction="always"
+        android:orderInCategory="100"
+        />
+
+</menu>
